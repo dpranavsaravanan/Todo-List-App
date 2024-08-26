@@ -1,2 +1,2 @@
 # Todo-List-App
-A Todo List app is a simple yet powerful tool that helps users manage and organize their tasks efficiently. Users can add new tasks, mark them as complete, and track their progress.
+A Todo List app is a simple yet powerful tool that helps users manage and organize their tasks efficiently. Users can add new tasks, mark them as complete, and track their progress. The app typically features an intuitive interface where tasks can be listed, categorized, and prioritized. It's a practical solution for staying organized, improving productivity, and ensuring that important tasks are not overlooked. The app can be customized with various themes and features to suit individual needs and preferences.
